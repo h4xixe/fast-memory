@@ -1,2 +1,2 @@
-# fast-memory
-Fast Memory using c# for external projects 
+# Memory using AOB + C#
+Fast Memory using c# for game hacking projects and others
